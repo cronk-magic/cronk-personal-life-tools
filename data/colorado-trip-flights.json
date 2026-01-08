@@ -1,0 +1,178 @@
+[
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-23",
+      "return_date": "2026-01-26",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-23+through+2026-01-26",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-23/2026-01-26/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260123/260126/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-23&departureTimeOfDay=ALL_DAY&returnDate=2026-01-26&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.997340",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-23",
+      "return_date": "2026-01-27",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-23+through+2026-01-27",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-23/2026-01-27/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260123/260127/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-23&departureTimeOfDay=ALL_DAY&returnDate=2026-01-27&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.997938",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-23",
+      "return_date": "2026-01-28",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-23+through+2026-01-28",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-23/2026-01-28/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260123/260128/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-23&departureTimeOfDay=ALL_DAY&returnDate=2026-01-28&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.997997",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-23",
+      "return_date": "2026-01-29",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-23+through+2026-01-29",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-23/2026-01-29/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260123/260129/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-23&departureTimeOfDay=ALL_DAY&returnDate=2026-01-29&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.998046",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-24",
+      "return_date": "2026-01-26",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-24+through+2026-01-26",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-24/2026-01-26/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260124/260126/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-24&departureTimeOfDay=ALL_DAY&returnDate=2026-01-26&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.998093",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-24",
+      "return_date": "2026-01-27",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-24+through+2026-01-27",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-24/2026-01-27/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260124/260127/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-24&departureTimeOfDay=ALL_DAY&returnDate=2026-01-27&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.998146",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-24",
+      "return_date": "2026-01-28",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-24+through+2026-01-28",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-24/2026-01-28/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260124/260128/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-24&departureTimeOfDay=ALL_DAY&returnDate=2026-01-28&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.998192",
+    "trip_name": "colorado_trip"
+  },
+  {
+    "search_params": {
+      "origin": "PHL",
+      "destination": "DEN",
+      "depart_date": "2026-01-24",
+      "return_date": "2026-01-29",
+      "passengers": 2
+    },
+    "api_results": null,
+    "urls": {
+      "google_flights": "https://www.google.com/travel/flights?q=Flights+to+DEN+from+PHL+on+2026-01-24+through+2026-01-29",
+      "kayak": "https://www.kayak.com/flights/PHL-DEN/2026-01-24/2026-01-29/2adults",
+      "skyscanner": "https://www.skyscanner.com/transport/flights/phl/dene/260124/260129/",
+      "southwest": "https://www.southwest.com/air/booking/select.html?originationAirportCode=PHL&destinationAirportCode=DEN&returnAirportCode=&departureDate=2026-01-24&departureTimeOfDay=ALL_DAY&returnDate=2026-01-29&returnTimeOfDay=ALL_DAY&adultPassengersCount=2&seniorPassengersCount=0&tripType=roundtrip&fareType=USD&passengerType=ADULT&reset=true&int=HOMEQBOMAIR"
+    },
+    "points_urls": {
+      "chase_ultimate_rewards": "https://ultimaterewardspoints.chase.com/travel",
+      "citi_thankyou": "https://www.thankyou.com/cms/thankyou/travel.page"
+    },
+    "timestamp": "2026-01-08T13:26:36.998238",
+    "trip_name": "colorado_trip"
+  }
+]
